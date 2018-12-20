@@ -1,3 +1,4 @@
-Projeto de automação com Jenkins
+#Projeto de automação com Jenkins
 
-- Cria nova imagem com Docker
+## TODO
+- Criar nova imagem com Docker
