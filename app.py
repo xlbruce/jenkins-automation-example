@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    version = 1
+    version = 2
     return "Hello World! (version {})".format(version)
 
 if __name__ == '__main__':
